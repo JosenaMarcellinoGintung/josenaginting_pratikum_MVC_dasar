@@ -9,8 +9,13 @@
 </head>
 <body>
 
+    <div class="container">
     <h1>Daftar Produk</h1>
 
+    <table>
+        ....
+    </table>
+</div>
     <table border="1">
         <thead>
             <tr>
